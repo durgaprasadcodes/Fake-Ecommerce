@@ -3,7 +3,12 @@
 A simple React product listing app built with the [Fake Store API](https://fakestoreapi.com/).
 
 ## ☯️ Live Demo 
-[Live Demo Here](https://durgaprasad4289.github.io/Fake-Ecommerce/)
+
+<div align='center'>
+   
+   [Live Demo Here](https://durgaprasadcodes.github.io/Fake-Ecommerce/)
+
+</div>
 
 ---
 
